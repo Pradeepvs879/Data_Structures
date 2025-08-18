@@ -5,4 +5,5 @@
 | 3         | Detect Cycle in LL| O(n) time     | [ ]  |
 |4|Rotate a LL|O(n) time | ✅ |
 |5|Merge Overlapping Intervals |O(n) time Complexity|✅|
-|6|Rotate a linkedList| O(n✅|
+|6|Rotate a Linked List| O(n) |✅|
+|7| Find Peak Element in a Sorted Array |O(log n)|✅|
