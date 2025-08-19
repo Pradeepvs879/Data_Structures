@@ -7,3 +7,4 @@
 |5|Merge Overlapping Intervals |O(n) time Complexity|✅|
 |6|Rotate a Linked List| O(n) |✅|
 |7| Find Peak Element in a Sorted Array |O(log n)|✅|
+|8|Next Greater Element| O(n)|✅|
