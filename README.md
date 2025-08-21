@@ -10,3 +10,5 @@
 |8|Next Greater Element| O(n)|✅|
 |9|Remove nth node from end of LL|O(n)|✅|
 |10|Reverse LL from m to n |O(n)|✅|
+|11|Flatten a linked list|O(n)|✅|
+|12|Flatten a binary tree|O(n)|✅|
