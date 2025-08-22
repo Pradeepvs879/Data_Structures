@@ -12,3 +12,4 @@
 |10|Reverse LL from m to n |O(n)|✅|
 |11|Flatten a linked list|O(n)|✅|
 |12|Flatten a binary tree|O(n)|✅|
+|13|Median of 2 sorted arrays|O(log n)|✅| 
