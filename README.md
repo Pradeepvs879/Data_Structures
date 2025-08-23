@@ -13,3 +13,6 @@
 |11|Flatten a linked list|O(n)|✅|
 |12|Flatten a binary tree|O(n)|✅|
 |13|Median of 2 sorted arrays|O(log n)|✅| 
+|14|Search in 2D matrix|O(log (n * m))|✅|
+|15|Decode String|O(n)|✅|
+|16|Find Peak in matrix|O( log(n * m))|✅|
