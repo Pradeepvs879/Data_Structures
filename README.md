@@ -16,3 +16,4 @@
 |14|Search in 2D matrix|O(log (n * m))|✅|
 |15|Decode String|O(n)|✅|
 |16|Find Peak in matrix|O( log(n * m))|✅|
+|17|Diameter ofBianry tree|O(n)|✅|
