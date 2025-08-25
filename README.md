@@ -17,6 +17,6 @@
 |15|Decode String|O(n)|✅|
 |16|Find Peak in matrix|O( log(n * m))|✅|
 |17|Diameter ofBianry tree|O(n)|✅|
-|18| Balanced Binary Tree|O(n)|✅|
+|18|Balanced Binary Tree|O(n)|✅|
 |19|Longest Substring without repeating characters|O(n)|✅|
-|20|
+|20|Middle element of LL|O(n)|✅|
