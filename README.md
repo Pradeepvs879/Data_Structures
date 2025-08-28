@@ -21,3 +21,4 @@
 |19|Longest Substring without repeating characters|O(n)|✅|
 |20|Middle element of LL|O(n)|✅|
 |21|Minimum Window Substring|O(n)|✅|
+|22|GCD of odd sum and even sum|O(1)|✅|
