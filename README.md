@@ -23,3 +23,4 @@
 |21|Minimum Window Substring|O(n)|✅|
 |22|GCD of odd sum and even sum|O(1)|✅|
 |23|Next Permutation|O(n)|✅|
+|24|Maximu Path Sum |O(n)|✅|
