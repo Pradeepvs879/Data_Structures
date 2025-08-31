@@ -1,9 +1,9 @@
 | Serial No | Problem Statement | Constraints   | Done |
 |-----------|-------------------|---------------|------|
-| 1         | Reverse a LL      | Not required  | ✅|
-| 2         | Merge Sort        | O(n log n)    | ⌛ |
-| 3         | Detect Cycle in LL| O(n) time     | [ ]  |
-|4|Rotate a LL|O(n) time | ✅ |
+|1|Reverse a LL| Not required|✅|
+|2| Merge Sort| O(n log n)|⌛|
+|3|Detect Cycle in LL|O(n) time|✅|
+|4|Rotate a LL|O(n) time |✅|
 |5|Merge Overlapping Intervals |O(n) time Complexity|✅|
 |6|Rotate a Linked List| O(n) |✅|
 |7|Find Peak Element in a Sorted Array |O(log n)|✅|
@@ -24,4 +24,4 @@
 |22|GCD of odd sum and even sum|O(1)|✅|
 |23|Next Permutation|O(n)|✅|
 |24|Maximum Path Sum |O(n)|✅|
-|25|
+|25|Shortes common super sequence|✅|
