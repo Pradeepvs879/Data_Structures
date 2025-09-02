@@ -24,5 +24,6 @@
 |22|GCD of odd sum and even sum|O(1)|✅|
 |23|Next Permutation|O(n)|✅|
 |24|Maximum Path Sum |O(n)|✅|
-|25|Shortes common super sequence||✅|
-|26|Matrix Chain Multiplication| |✅|
+|25|Shortest common super sequence||✅|
+|26|Matrix Chain Multiplication|[MCM](https://gist.github.com/Pradeepvs879/98b694e737de0520f9dcf11ca06e3b2e)|✅|
+|27|Palindrome Partitioning||
