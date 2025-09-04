@@ -27,3 +27,4 @@
 |25|Shortest common super sequence||✅|
 |26|Matrix Chain Multiplication|[MCM](https://gist.github.com/Pradeepvs879/98b694e737de0520f9dcf11ca06e3b2e)|✅|
 |27|Palindrome Partitioning|✅|
+|28|Longest subarray||
