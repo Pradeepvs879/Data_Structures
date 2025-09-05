@@ -28,3 +28,4 @@
 |26|Matrix Chain Multiplication|[MCM](https://gist.github.com/Pradeepvs879/98b694e737de0520f9dcf11ca06e3b2e)|✅|
 |27|Palindrome Partitioning|✅|
 |28|Longest subarray||
+|29|Maximum Product Subarray|[Max Product Subarray](https://gist.github.com/Pradeepvs879/1132db885a0a45eeb3af45dcc20ad2b2)|O(n)|✅|
