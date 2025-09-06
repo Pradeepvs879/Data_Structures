@@ -29,3 +29,4 @@
 |27|Palindrome Partitioning|✅|
 |28|Longest subarray||
 |29|Maximum Product Subarray|[Max Product Subarray](https://gist.github.com/Pradeepvs879/1132db885a0a45eeb3af45dcc20ad2b2)|O(n)|✅|
+|30|Two Sum|[Two Sum](https://gist.github.com/Pradeepvs879/a08d3acb9a2ba3d3f915dceaccf31f7a)|O(n log n)|✅|
