@@ -32,6 +32,6 @@
 |30|Two Sum|[Two Sum](https://gist.github.com/Pradeepvs879/a08d3acb9a2ba3d3f915dceaccf31f7a)|O(n log n)|✅|
 |31|Longest Substring without repeating characters|[LSWR](https://gist.github.com/Pradeepvs879/acb607b7af10055b7f83653cf9e2d662)|O(n)|✅|
 |32|Longest Substring at most k distinct character|[LSAKRC](https://gist.github.com/Pradeepvs879/abaf63efe29b0fb3a76fc75380066895)|O(n)|✅|
-|33|LMaximum Subarray sum |O(n)|Kadanes Algo|✅|
+|33|Maximum Subarray sum |O(n)|Kadanes Algo|✅|
 
 
