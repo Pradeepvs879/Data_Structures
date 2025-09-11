@@ -33,5 +33,5 @@
 |31|Longest Substring without repeating characters|[LSWR](https://gist.github.com/Pradeepvs879/acb607b7af10055b7f83653cf9e2d662)|O(n)|✅|
 |32|Longest Substring at most k distinct character|[LSAKRC](https://gist.github.com/Pradeepvs879/abaf63efe29b0fb3a76fc75380066895)|O(n)|✅|
 |33|Maximum Subarray sum |O(n)|Kadanes Algo|✅|
-
+|34|Odd Even Linked List|[Odd Even LL](https://gist.github.com/Pradeepvs879/da7ed519326f03f41705fe445d17e832)|O(n)|✅|
 
