@@ -1,5 +1,5 @@
-| Serial No | Problem Statement | Constraints   | Done |
-|-----------|-------------------|---------------|------|
+| Serial No | Problem Statement | Constraints   | Done |Status|
+|-----------|-------------------|---------------|------|----|
 |1|Reverse a LL| Not required|✅|
 |2| Merge Sort| O(n log n)|✅|
 |3|Detect Cycle in LL|O(n) time|✅|
