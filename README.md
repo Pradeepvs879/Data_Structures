@@ -36,3 +36,4 @@
 |34|Odd Even Linked List|[Odd Even LL](https://gist.github.com/Pradeepvs879/da7ed519326f03f41705fe445d17e832)|O(n)|✅|
 |35|Longest Common Prefix|[LCP]()|O(n)|✅|
 |36|Group Anagrams|[GA]()|O(n*k)|✅|
+|37|Grid Unique Path - 1|[Unique Path 1](https://gist.github.com/Pradeepvs879/07aa45f6065db6a57515ac0c7a7efa5e)|O(n2)|✅|
