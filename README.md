@@ -40,3 +40,4 @@
 |38|Cycle in Directed Graph|[Cycle DG](https://gist.github.com/Pradeepvs879/0026febfe10db277d327905f843e7e7b)|O(V + E) |✅|
 |39|Unique String||O(n)|✅|
 |40|Container with maximum water|O(n)|✅|
+|41|Spiral Matrix|
