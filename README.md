@@ -41,3 +41,4 @@
 |39|Unique String||O(n)|✅|
 |40|Container with maximum water|O(n)|✅|
 |41|Spiral Matrix|
+|42|Quick Sort|O(n log n)|✅|
