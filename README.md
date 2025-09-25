@@ -42,3 +42,4 @@
 |40|Container with maximum water|O(n)|✅|
 |41|Spiral Matrix|
 |42|Quick Sort|O(n log n)|✅|
+|43|Median of two sorted list|O(log(min(m, n))|✅|
