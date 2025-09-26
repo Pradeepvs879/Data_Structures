@@ -1,6 +1,6 @@
 | Serial No | Problem Statement | Constraints   | Done |Status|
 |-----------|-------------------|---------------|------|----|
-|1|Reverse a LL| Not required|✅|Same as DLL|Done
+|1|Reverse a LL| Not required|✅|Same as DLL|Done|
 |2| Merge Sort| O(n log n)|✅|
 |3|Detect Cycle in LL|O(n) time|✅|
 |4|Rotate a LL|O(n) time |✅|
@@ -43,3 +43,4 @@
 |41|Spiral Matrix|
 |42|Quick Sort|O(n log n)|✅|
 |43|Median of two sorted list|O(log(min(m, n))|✅|
+|43|Kth element in 2 sorted array|
