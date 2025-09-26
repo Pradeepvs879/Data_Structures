@@ -43,4 +43,4 @@
 |41|Spiral Matrix|
 |42|Quick Sort|O(n log n)|✅|
 |43|Median of two sorted list|O(log(min(m, n))|✅|
-|43|Kth element in 2 sorted array|
+|43|Kth element in 2 sorted array|O(log(n)|
