@@ -45,3 +45,4 @@
 |43|Median of two sorted list|O(log(min(m, n))|✅|
 |43|Kth element in 2 sorted array|O(log(n)|
 |44|LRU cache|O(log n)|
+|45| Heaps data structure|
