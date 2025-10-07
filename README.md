@@ -48,3 +48,13 @@
 |45| Heaps data structure|
 |46|Largest perimeter triangle||
 |47|Git hub|Versioning|
+
+
+
+
+
+
+| id | question                      | correct_option_index | category | difficulty |
+|----|-------------------------------|---------------------|----------|------------|
+| 1  | What is 2+2?                  | 2                   | Math     | 1          |
+| 2  | What is the capital of France?| 0                   | Geography| 1          |
