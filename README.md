@@ -58,3 +58,4 @@
 |----|-------------------------------|---------------------|----------|------------|
 | 1  | What is 2+2?                  | 2                   | Math     | 1          |
 | 2  | What is the capital of France?| 0                   | Geography| 1          |
+|3|JAR and WAR difference|0|Po|Easy|
