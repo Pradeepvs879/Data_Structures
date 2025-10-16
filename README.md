@@ -49,7 +49,7 @@
 |46|Largest perimeter triangle||
 |47|Git hub|Versioning|
 |48|LRU Implementation|✅|
-|49|Majority Element|✅|
+|49|Majority Element|O(n)|✅|
 
 
 
