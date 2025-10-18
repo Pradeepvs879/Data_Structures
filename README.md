@@ -50,6 +50,7 @@
 |47|Git hub|Versioning|
 |48|LRU Implementation|✅|
 |49|Majority Element|O(n)|✅|
+|50|Observer Design pattern|
 
 
 
