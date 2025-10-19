@@ -52,7 +52,7 @@
 |49|Majority Element|O(n)|✅|
 |49|Majority Element|O(n)|✅|
 |50|Observer Design pattern|✅|
-
+|51|Spring Scheduling|✅|
 
 
 
